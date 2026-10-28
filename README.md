@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hydrotonic.org"><img src="https://hydrotonic.org/img/logo.jpg" width="240" alt="Hydrotonic logo: three hydroponic towers rising from water, above the line Redefining Sustainable Farming in India"></a>
+  <a href="https://hydrotonic.org"><img src="https://hydrotonic.org/img/logo-light.png" width="200" alt="Hydrotonic logo: three hydroponic towers rising from water, with the name below"></a>
 </p>
 
 <h3 align="center">Hydroponic tower systems for homes, businesses and commercial growers in India.</h3>
